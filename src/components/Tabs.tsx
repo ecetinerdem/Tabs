@@ -19,6 +19,7 @@ const tabs = [
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
             image="https://via.placeholder.com/400x300"
+            link="google.com"
           />
         ))}
       </div>
