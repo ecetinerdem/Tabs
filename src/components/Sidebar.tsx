@@ -1,4 +1,4 @@
-import { FaHome, FaSearch, FaUser, IoMdS } from 'react-icons/fa';
+import { FaHome, FaSearch, FaUser } from 'react-icons/fa';
 import { IoMdSettings } from 'react-icons/io';
 
 const Sidebar = () => {
